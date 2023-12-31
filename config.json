@@ -1,0 +1,14 @@
+{
+    "googleVoiceAPI": {
+        "apiKey": "your_google_voice_api_key",
+        "apiSecret": "your_google_voice_api_secret"
+    },
+    "openAIAPI": {
+        "apiKey": "your_openai_api_key",
+        "apiSecret": "your_openai_api_secret"
+    },
+    "autoResponderSettings": {
+        "autoReply": true,
+        "defaultResponse": "I'm currently unavailable, but I'll get back to you as soon as I can."
+    }
+}
